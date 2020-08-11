@@ -2,8 +2,8 @@
  * Copyright (c) 2013 Adam Rudd.
  * See LICENSE for more information
  */
-#ifndef _BASE64_H
-#define _BASE64_H
+#ifndef _MY_BASE64_H
+#define _MY_BASE64_H
 
 /* b64_alphabet:
  * 		Description: Base64 alphabet table, a mapping between integers
